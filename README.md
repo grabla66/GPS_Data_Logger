@@ -7,3 +7,5 @@ The Waveshare board that I used is shown in more detail here.
 https://www.waveshare.com/wiki/GSM/GPRS/GNSS_HAT
 It uses the SIM868 modem, which is controlled by sending AT Codes to it over serial.
 
+More details of the project can be found on my Blog here.
+https://www.zetecinside.com/xr2/rpi_project2.shtml
