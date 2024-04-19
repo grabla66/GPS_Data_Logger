@@ -3,3 +3,7 @@ The program runs on a Raspberry Pi 3, though it will probably also run on other 
 It sets the GPS chip in to 10Hz mode, and logs coordinates at 10Hz, to file.
 If the vehicle stops, the recording stops, and automatically restarts when the vehicle restarts.
 
+The Waveshare board that I used is shown in more detail here.
+https://www.waveshare.com/wiki/GSM/GPRS/GNSS_HAT
+It uses the SIM868 modem, which is controlled by sending AT Codes to it over serial.
+
