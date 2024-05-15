@@ -1,4 +1,4 @@
-This is a project to read the GPS coordinates from a Waveshare GPS HAT, and read four analogue channels at the same frequency, and save their values with the coordinates, to a file.
+This is a Raspberry Pi project to read the GPS coordinates from a Waveshare GPS HAT, and read four analogue channels at the same frequency, and save their values with the coordinates, to a file.
 
 The program runs on a Raspberry Pi 3, though it will probably also run on other platforms.
 It sets the GPS chip in to 10Hz mode, and logs coordinates at 10Hz, to file.
